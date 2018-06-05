@@ -1,3 +1,7 @@
 Hello, world!
 i'm study at NULP!
 # Author: Jim Weirichjim@somewhere.com)
+puts "What's your name"
+my_name = gets.strip
+
+puts "Hello, #{my_name}!"
